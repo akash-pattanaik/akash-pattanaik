@@ -15,8 +15,8 @@ I'm a 3rd year B.tech student proficient in MERN web development and UI&UX Desig
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akash-pattanaik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
 
+[![]([https://visitcount.itsvg.in/api?id=akash-pattanaik&icon=0&color=0](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai))]
 ---
 [![](https://visitcount.itsvg.in/api?id=akash-pattanaik&icon=0&color=0)](https://visitcount.itsvg.in)
 
